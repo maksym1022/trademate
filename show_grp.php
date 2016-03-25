@@ -1,0 +1,1 @@
+ <?php   include("include/class.php");$obj=new admin;$obj->conn();  $obj->show_groups();   ?>
